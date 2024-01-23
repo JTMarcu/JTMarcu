@@ -23,7 +23,7 @@ I'm looking to collaborate on any data science or machine learning projects that
 I enjoy spending time with my family (wife, two daughters, and two dogs) and doing various activities with them. Some of my hobbies and interests are golf, skateboarding, snowboarding, basketball, soccer, Lego, CAD, coding and video games.
 
 ## 🎓 MIT - Data Science and Machine Learning: Making Data-Driven Decisions
-
+![](https://d9jmtjs5r4cgq.cloudfront.net/CertificateAndTranscript/102980/original/JONATHAN_MARCU_certificate20240123-949-1cbxd4k.jpg)
 This is a course that I took from September 2023 to January 2024 at MIT. It covers the foundations of data science and machine learning, such as data analysis, visualization, statistics, hypothesis testing, regression, clustering, classification, ensemble learning, recommendation systems, natural language processing, computer vision, and deep learning. You can find more details about the course and my certificate at this link.
 
 ### Course Projects
