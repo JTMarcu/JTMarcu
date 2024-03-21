@@ -45,3 +45,9 @@ As part of the course, I completed several projects that demonstrate my skills a
 - **FoodHub Order Analysis** (October 2023): This project involves analyzing the data to get a fair idea about the demand of different restaurants which will help the company to enhance business and customer experience. I used exploratory data analysis, data visualization, and statistics to answer various business questions, such as which restaurants are the most popular, which cuisines are the most preferred, which days and times have the highest demand, etc.
 
   Skills & Tools Covered: Exploratory Data Analysis, Data Visualization, Statistics, Python, NumPy, Pandas, Matplotlib, Seaborn
+
+## Google Data Analytics Professional Certification
+
+- **[BellaBeat Capstone Project](https://www.kaggle.com/code/jonmarcu/bellabeat-analysis)** (March 2024): The capstone project analyzed user data from a fitness tracker to understand activity levels, sleep patterns, and heart rate variability, revealing correlations between physical activity and health metrics. It highlighted the importance of high-intensity activities for caloric burn, the role of adequate sleep in reducing sedentary behavior, and the need for balancing calorie intake with expenditure. The findings suggest that personalized activity goals and improved tracking can promote healthier lifestyles among users.
+
+  Skills & Tools Covered: Exploratory Data Analysis, Data Visualization, Statistics, R, ggplot2, Kaggle, Github
